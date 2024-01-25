@@ -1,4 +1,4 @@
-# node-deeplink
+# firebase-deeplinks
 
 > Easily create express endpoint to handle mobile deeplinks in firebase cloud functions
 
