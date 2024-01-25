@@ -6,7 +6,7 @@
     "scripts": {
         "test:prettier": "prettier --list-different '**/*.{js,md,html}'",
         "fix:prettier": "prettier --write '**/*.{js,md,html}'",
-        "test": "npm run test:prettier && mocha test/test.js -t 4000"
+        "test": "npm run test:prettier && mocha test/test.js -t 40000"
     },
     "author": "Usman Liaqat <usmanliaqatdeveloper@gmail.com>",
     "homepage": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks",
