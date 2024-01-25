@@ -1,6 +1,6 @@
 {
-    "name": "@usmanliaqatdeveloper/firebase-deeplinks",
-    "version": "2.1.0",
+    "name": "firebase-deeplinks",
+    "version": "2.2.0",
     "description": "Easily create an endpoint in firebase cloud function that redirects deep links to android and ios apps",
     "main": "lib/deeplink.js",
     "scripts": {
