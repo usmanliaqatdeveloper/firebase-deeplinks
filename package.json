@@ -1,12 +1,12 @@
 {
     "name": "@usmanliaqatdeveloper/firebase-deeplinks",
     "version": "1.7.0",
-    "description": "Easily create an endpoint in firebase cloud function that redirects deep links to mobile apps",
+    "description": "Easily create an endpoint in firebase cloud function that redirects deep links to android and ios apps",
     "main": "lib/deeplink.js",
     "scripts": {
         "test:prettier": "prettier --list-different '**/*.{js,md,html}'",
         "fix:prettier": "prettier --write '**/*.{js,md,html}'",
-        "test": "npm run test:prettier && mocha test/test.js -t 40000"
+        "test": "npm run test:prettier && mocha test/test.js -t 4000"
     },
     "author": "Usman Liaqat <usmanliaqatdeveloper@gmail.com>",
     "homepage": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks",
