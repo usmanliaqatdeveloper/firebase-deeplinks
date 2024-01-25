@@ -1,5 +1,5 @@
 {
-    "name": "@usmanliaqatdeveloper/firebase-deeplinks",
+    "name": "firebase-deeplinks",
     "version": "1.9.0",
     "description": "Easily create an endpoint in firebase cloud function that redirects deep links to android and ios apps",
     "main": "lib/deeplink.js",
@@ -14,7 +14,9 @@
         "type": "git",
         "url": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks.git"
     },
-    
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com"
+    },
     "bugs": {
         "url": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks/issues"
     },
