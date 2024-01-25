@@ -1,0 +1,26 @@
+{
+    "name": "@usmanliaqatdeveloper/firebase-deeplinks",
+    "version": "1.2.0",
+    "description": "Easily create an endpoint in firebase cloud function that redirects deep links to mobile apps",
+    "main": "lib/deeplink.js",
+    "author": "Usman Liaqat <usmanliaqatdeveloper@gmail.com>",
+    "homepage": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks",
+    "repository": "https://github.com/usmanliaqatdeveloper/firebase-deeplinks.git",
+    "license": "MIT",
+    "dependencies": {
+        "html-inline": "^1.2.0"
+    },
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "express": "^4.17.1",
+        "mocha": "^7.2.0",
+        "prettier": "^2.0.5",
+        "zombie": "^6.1.4"
+    },
+    "keywords": [
+        "deep-link",
+        "deeplink",
+        "express",
+        "mobile"
+    ]
+}
