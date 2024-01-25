@@ -3,7 +3,7 @@ const device = require('./lib/device');
 const Browser = require('./lib/browser');
 
 const url = 'app://test/';
-const fallback = 'https://orbixtartechnologies.com/';
+const fallback = 'https://miningrewards.web.app/';
 const androidPackageName = 'com.orbixtartechnologies.miningrewards';
 const iosStoreLink =
     'https://itunes.apple.com/us/app/art-vandelay/id556462755?mt=8&uo=4';
